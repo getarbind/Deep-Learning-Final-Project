@@ -6,3 +6,7 @@ It presents a Convolution Neural Networks (CNN) that can classify architectural 
 The project tries out different types of neural network architectures and hyper parameter tuning, to gain insight into what factors contribute most to model performance. 
 
 The data used for in this project can be downloaded from https://correo.cartif.es/home/joslla@cartif.es/Briefcase/Architectural_Heritage_Elements_image_Dataset
+
+
+Notebook link:
+https://github.com/getarbind/Deep-Learning-Final-Project/blob/main/CNN_Final_Project_Final.ipynb
